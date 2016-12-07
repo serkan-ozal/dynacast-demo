@@ -1,0 +1,1 @@
+call mvn -Pawseb beanstalk:terminate-environment
