@@ -34,7 +34,7 @@
         <beanstalk.securityGroups>hazelcast-sg</beanstalk.securityGroups>
         <beanstalk.instanceType>m1.medium</beanstalk.instanceType>
 
-        <dynacast.version>1.0.1-SNAPSHOT</dynacast.version>
+        <dynacast.version>1.0-RELEASE</dynacast.version>
         
         <maven.assembly.plugin.version>2.6</maven.assembly.plugin.version>
         <maven.beanstalk.plugin.version>1.5.0</maven.beanstalk.plugin.version>
